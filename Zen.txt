@@ -7,5 +7,5 @@ Zen of Python
 6.
 7. Readability counts.
 8.
-9.Although practicality beats purity.
+9. Although practicality beats purity.
 10.
