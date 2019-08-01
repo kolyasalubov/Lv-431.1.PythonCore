@@ -10,4 +10,4 @@ Zen of Python
 9. Although practicality beats purity.
 10. Errors should never pass silently.
 17.
-22.
+21.
