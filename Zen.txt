@@ -8,4 +8,5 @@ Zen of Python
 7. Readability counts.
 8.
 9. Although practicality beats purity.
-10.
+10. Errors should never pass silently.
+
