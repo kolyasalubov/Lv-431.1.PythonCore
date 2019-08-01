@@ -9,7 +9,10 @@ Zen of Python
 8.Special cases aren't special enough to break the rules.
 9. Although practicality beats purity.
 10. Errors should never pass silently.
+14.Although that way may not be obvious at first unless you're Dutch.
 16. Although never is often better than *right* now.
 17.
 20. Namespaces are one honking great idea -- let's do more of those!
 21. If the implementation is hard to explain, it's a bad idea.
+
+
