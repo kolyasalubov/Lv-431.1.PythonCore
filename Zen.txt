@@ -10,3 +10,5 @@ Zen of Python
 9. Although practicality beats purity.
 10. Errors should never pass silently.
 20. Namespaces are one honking great idea -- let's do more of those!
+17.
+
