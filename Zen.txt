@@ -16,7 +16,7 @@ Zen of Python
 
 =======
 16. Although never is often better than *right* now.
-17.
+17. 
 20. Namespaces are one honking great idea -- let's do more of those!
 21. If the implementation is hard to explain, it's a bad idea.
 >>>>>>> 1093355755a01d840917699f5a371f0f04a52d43
