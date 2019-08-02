@@ -1,4 +1,4 @@
-﻿Zen of Python
+﻿Zen of Python Mbranch
 1. Beautiful is better than ugly.
 2.Explicit is better than implicit.
 3.Simple is better than complex.
@@ -9,12 +9,3 @@
 8.Special cases aren't special enough to break the rules.
 9. Although practicality beats purity.
 10. Errors should never pass silently.
-11. Unless explicitly silenced.
-12.In the face of ambiguity, refuse the temptation to guess.
-14.Although that way may not be obvious at first unless you're Dutch.
-16. Although never is often better than *right* now.
-17. If the implementation is hard to explain, it's a bad idea.
-19. Namespaces are one honking great idea -- let's do more of those!
-20. Оскільки ZEN закінчився, а я залишився, то додам вам котика :)
-21. Спеціально для Юлі :)
-22. Спеціально для Марти ))0)0
