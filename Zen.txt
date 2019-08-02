@@ -14,5 +14,4 @@ Zen of Python
 16. Although never is often better than *right* now.
 17. If the implementation is hard to explain, it's a bad idea.
 19. Namespaces are one honking great idea -- let's do more of those!
-20. Namespaces are one honking great idea -- let's do more of those!
-
+20. Оскільки ZEN закінчився, а я залишився, то додам вам котика :)
