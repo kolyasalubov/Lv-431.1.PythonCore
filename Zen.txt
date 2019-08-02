@@ -9,4 +9,4 @@ Zen of Python
 8.
 9. Although practicality beats purity.
 10. Errors should never pass silently.
-19. If the implementation is easy to explain, it may be a good idea.
+19. Namespaces are one honking great idea -- let's do more of those!
