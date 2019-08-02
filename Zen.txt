@@ -1,4 +1,4 @@
-Zen of Python
+п»їZen of Python
 1. Beautiful is better than ugly.
 2.Explicit is better than implicit.
 3.
@@ -15,4 +15,4 @@ Zen of Python
 16. Although never is often better than *right* now.
 17. If the implementation is hard to explain, it's a bad idea.
 19. Namespaces are one honking great idea -- let's do more of those!
-20. Оскільки ZEN закінчився, а я залишився, то додам вам котика :)
+20. РћСЃРєС–Р»СЊРєРё ZEN Р·Р°РєС–РЅС‡РёРІСЃСЏ, Р° СЏ Р·Р°Р»РёС€РёРІСЃСЏ, С‚Рѕ РґРѕРґР°Рј РІР°Рј РєРѕС‚РёРєР° :)
