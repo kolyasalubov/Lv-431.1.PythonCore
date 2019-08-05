@@ -1,6 +1,0 @@
-input_name = input("What's your name? ")
-input_age = input("How old are you? ")
-input_place = input("Where are you live? ")
-print("Hello, "+input_name)
-print("Your age is "+input_age)
-print("Your live in "+input_place)
